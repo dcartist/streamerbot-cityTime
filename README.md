@@ -3,6 +3,8 @@
 This is a C# script to show the city's time
 using the geonames api
 
+This is a C# script to show the city's time using the geonames api inside Streamer Bot. This is useful for streamers who have an international audience and want to show the time in their city.
+
 Register for geonames  api
 
 Example:
