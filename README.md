@@ -1,4 +1,4 @@
-# streamerbot-cityTime
+# streamerbot cityTime for twitch
 
 This is a C# script to show the city's time
 using the geonames api
